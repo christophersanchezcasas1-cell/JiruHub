@@ -1,4 +1,4 @@
-# JiruHub Extensions Repository
+https://raw.githubusercontent.com/jephersonRD/JiruHub/main/jiru-install/install.sh# JiruHub Extensions Repository
 
 **English** | [Español](./README-ES.md)
 
